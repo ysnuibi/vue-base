@@ -6,6 +6,9 @@ defineProps({
   },
 })
 </script>
+<div>
+  
+</div>
 
 <template>
   <div class="greetings">
